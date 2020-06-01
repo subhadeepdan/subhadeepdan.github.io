@@ -1,12 +1,17 @@
 - title: Student, BIT Mesra
   from: 2016
   to: 2020
-  description: Completed B.E in Computer Science and Engineering.
+  description: Pursuing B.E in Computer Science and Engineering.
                 Studied basic Software Engineering subjects like DS, Algorithms, DBMS, OOPS, Computer Architechture, AI ,etc.
 
+- title: Developer, Atlancey
+  from: June 2017
+  to: Dec 2018
+  description: Worked as a freelancer at <a href="https://atlancey.com">Atlancey</a> and developed the 12 Physics Gurukul - Hindi android app.
+
 - title: Intern, TATA Steel
-  from: May, 2019
-  to: June, 2019
+  from: May 2019
+  to: June 2019
   description: Developed a workflow system for Internal/External Audit Management process companies using ASP.NET Web Forms.
 
 - title: SDE, Amdocs, Pune
