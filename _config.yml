@@ -90,3 +90,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+theme: jekyll-theme-midnight
