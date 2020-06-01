@@ -1,0 +1,28 @@
+- name: Android Development
+  percentage: 80
+  color: danger
+  
+- name: Java
+  percentage: 70
+  color: blue
+  
+- name: HTML5/CSS3/JavaScript
+  percentage: 70
+  color: success
+
+- name: NodeJS
+  percentage: 60
+  color: info
+  
+- name: ASP.NET Web Forms
+  percentage: 60
+  color: warning
+  
+- name: MySQL
+  percentage: 80
+  color: danger
+  
+- name: C
+  percentage: 70
+  color: secondary
+ 

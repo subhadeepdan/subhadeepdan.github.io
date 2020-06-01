@@ -1,0 +1,7 @@
+- name: Git, Version Control and Github
+  percentage: 80
+  color: info
+
+- name: Firebase (Auth and Database)
+  percentage: 90
+  color: success
