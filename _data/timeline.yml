@@ -1,7 +1,7 @@
 - title: Student, BIT Mesra
   from: 2016
   to: 2020
-  description: Pursuing B.E in Computer Science and Engineering.
+  description: Pursued B.E in Computer Science and Engineering.
                 Studied basic Software Engineering subjects like DS, Algorithms, DBMS, OOPS, Computer Architechture, AI ,etc.
 
 - title: Developer, Atlancey
@@ -15,6 +15,11 @@
   description: Developed a workflow system for Internal/External Audit Management process companies using ASP.NET Web Forms.
 
 - title: Software Engineering Associate, Amdocs, Pune
-  from: 2020
+  from: Aug 2020
+  to: Jan 2022
+  description: Worked on development of SOM product as part of AD-OSS SOM Scrum team as per requirement from Vodafone Germany.
+  
+- title: Software Developer, Amdocs, Pune
+  from: Jan 2022
   to: present
-  description: Currently working in Amdocs Development OSS Unit.
+  description: Currently working on development of Migration Tool as part of OSS R&D Unit for migrating data from old product to new product.
