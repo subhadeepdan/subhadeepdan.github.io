@@ -1,7 +1,7 @@
 - name: Git & Version Control
-  percentage: 80
+  percentage: 70
   color: info
 
-- name: Firebase
-  percentage: 90
+- name: Agile Methodology
+  percentage: 80
   color: success
